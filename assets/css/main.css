@@ -1934,7 +1934,7 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			font-family: 'Arvo';
+			/* font-family: 'Arvo'; */
 			font-weight: 700;
 			color: #ed786a;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
@@ -2723,3 +2723,10 @@ input, select, textarea {
 
 	}
 
+#logo {
+	font-family: 'Smooch', cursive;
+}
+
+#hours {
+	list-style: none;
+}
