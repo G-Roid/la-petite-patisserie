@@ -1,7 +1,7 @@
 <h1 align="center">La Petite Pastisserie | <a href="https://g-roid.github.io/la-petite-patisserie/">Visit here!</a></h1>
 <div align="center">
   <a href='#'>
-	  <img src="https://github.com/G-Roid/G-Roid/blob/main/assets/micks-tutoring.gif" width="100%" />
+	  <img src="https://github.com/G-Roid/G-Roid/blob/main/assets/patisserie.gif" width="100%" />
   </a>
 </div>
 
@@ -28,9 +28,9 @@ Static website which focuses on separations of concerns. The HTML and CSS are co
 
 ## Optimizations
 
-I encounter issues when including the icons for each service. The font awesome documentation outlined how to rescale the icons by modifying the class names. 
+The email system needs to be linked via form submit endpoint. (https://formsubmit.co/)
 
 ## Lessons Learned:
 
-The developer tools allowed me to view the website at different device resolutions. I was able to include media queries to change to displayed content.  
+I learnt to use google fonts for this project. I was able to keep the project size relatively small by only importing the required fonts and sizes. 
 
