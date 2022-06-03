@@ -11,12 +11,12 @@
 
 ## How It's Made:
 
-Static website which focuses on separations of concerns. The HTML and CSS are contain within individual files to ensure the site is maintainable.
+Static website which focuses on separations of concerns. The HTML, CSS and JS are contain within individual files to ensure the site is maintainable.
 
 <h2 align="center">Techs used:</h2>
 <br>
 <div align="center">
-	<!-- <img src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Tech%20Skills/js-square.svg" height="50px"> -->
+	<img src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Tech%20Skills/js-square.svg" height="50px">
 	&nbsp&nbsp&nbsp
 	<img src="https://github.com/G-Roid/G-Roid/blob/main/Tech%20Skills/css3-alt.svg" height="50px">
 	&nbsp&nbsp&nbsp
